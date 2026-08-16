@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <a href="https://fortniteneweraai.top">
     <img
@@ -8,6 +6,7 @@
       width="900">
   </a>
 </p>
+
 
 <img width="1774" height="887" alt="FortniteAI" src="https://github.com/user-attachments/assets/4ec4f168-e134-4d27-8b46-6e605e842a2d" />
 
